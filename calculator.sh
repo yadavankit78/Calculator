@@ -1,4 +1,4 @@
 # Implement all feature here
 
-# echo cmd is use to print text on terminal
+# read variable from user
 read num5
